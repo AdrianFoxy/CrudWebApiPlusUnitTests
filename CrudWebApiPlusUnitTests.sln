@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrudWebApiPlusUnitTests", "CrudWebApiPlusUnitTests\CrudWebApiPlusUnitTests.csproj", "{B6CDF4C0-4741-40F0-A1CD-C9FA6D00569D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Book.Tests", "Book.Tests\Book.Tests.csproj", "{40EA4976-EF19-4CD5-AB2E-02E20A9D7A2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6CDF4C0-4741-40F0-A1CD-C9FA6D00569D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6CDF4C0-4741-40F0-A1CD-C9FA6D00569D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6CDF4C0-4741-40F0-A1CD-C9FA6D00569D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6CDF4C0-4741-40F0-A1CD-C9FA6D00569D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40EA4976-EF19-4CD5-AB2E-02E20A9D7A2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40EA4976-EF19-4CD5-AB2E-02E20A9D7A2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40EA4976-EF19-4CD5-AB2E-02E20A9D7A2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40EA4976-EF19-4CD5-AB2E-02E20A9D7A2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {01490FF5-33FE-415B-95A3-B2E2A75FFB16}
+	EndGlobalSection
+EndGlobal
